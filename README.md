@@ -38,3 +38,22 @@ Information Theory Project, 2022
 Число каналов K1=K3=K4=K6 = 1; K2=K5=2
 
 матрица вероятности передач:
+
+![Untitled1](https://github.com/cyberknopa/Information-theory/blob/main/6C4DB513-4DCA-4288-BD7B-B8ECF75763CB.jpeg)
+
+Интенсивность входного потока заявок I1=0
+2=I3=I4=I5=I6=0
+
+Средние времена обслуживания заявок:
+
+Tобс1=0.07
+
+Tобс2=0.05
+
+Tобс3=0.03
+
+Tобс4=0.01
+
+Tобс5=0.06
+
+Tобс6=0.1
